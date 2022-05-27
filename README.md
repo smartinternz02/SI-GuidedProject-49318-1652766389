@@ -4,3 +4,40 @@ Food is an essential component of our individual and social life. Eating habits 
 
 ##### Due to Large size of files all the files and model files are uploaded in the drive
 #### Drive Link: https://drive.google.com/drive/folders/1BSLZihp8teX1TbZcFwKNJQb87rA7LMr8?usp=sharing 
+
+
+This project consists of four folders
+1. Dataset Folder
+    This folder contains images of the food items. For this project we have taken French Fries, Pizza and Samosa images for training and testing the model. 
+  - Testing Set
+  - Training Set
+2. Flask
+  - Static
+  - Templates
+  - Uploads
+  - app.py file
+  - Recipe.hs Model file which contains the weights of the model
+3. IBM files
+  - IBM Deployment model file.ipynb
+  - Downloading model file from IBM watson studio.ipynb
+  - Recipe.h5 file which is extracted from .tar.gz file
+4. Model Building
+  - Recipe Recognition Model.ipynb
+  - Testing the Recipe Recognition.ipynb
+  - Recipe.h5 file which created from Recipe Recognition model
+
+##### To run the project direct to the flask folder location 
+` python app.py `
+
+##### Website
+
+
+##### Prediction 1 French Fries
+![screencapture-127-0-0-1-5000-upload-2022-05-26-18_35_49](https://user-images.githubusercontent.com/87355988/170709264-32d05441-8796-4042-b035-bab41da32534.png)
+
+##### Prediction 2 Pizza
+![screencapture-127-0-0-1-5000-upload-2022-05-26-18_36_11](https://user-images.githubusercontent.com/87355988/170709355-2f980f7b-e46d-426b-91cc-d2e6c00e12bf.png)
+
+##### Prediction 3 Samosa
+![screencapture-127-0-0-1-5000-upload-2022-05-26-18_36_31](https://user-images.githubusercontent.com/87355988/170709435-b09019e8-d576-4bed-a1df-41db05dd6e89.png)
+
