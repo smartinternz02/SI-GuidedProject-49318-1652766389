@@ -10,22 +10,22 @@ Food is an essential component of our individual and social life. Eating habits 
 This project consists of four folders
 1. Dataset Folder <br />
     This folder contains images of the food items. For this project we have taken French Fries, Pizza and Samosa images for training and testing the model. 
->>  - Testing Set
->>  - Training Set
+>  - Testing Set
+>  - Training Set
 2. Flask <br />
->>  - Static
->>  - Templates
->>  - Uploads
->>  - app.py file
->>  - Recipe.hs Model file which contains the weights of the model
+>  - Static
+>  - Templates
+>  - Uploads
+>  - app.py file
+>  - Recipe.hs Model file which contains the weights of the model
 3. IBM files <br />
->>  - IBM Deployment model file.ipynb
->>  - Downloading model file from IBM watson studio.ipynb
->>  - Recipe.h5 file which is extracted from .tar.gz file
+>  - IBM Deployment model file.ipynb
+>  - Downloading model file from IBM watson studio.ipynb
+>  - Recipe.h5 file which is extracted from .tar.gz file
 4. Model Building <br />
->>  - Recipe Recognition Model.ipynb
->>  - Testing the Recipe Recognition.ipynb
->>  - Recipe.h5 file which created from Recipe Recognition model
+>  - Recipe Recognition Model.ipynb
+>  - Testing the Recipe Recognition.ipynb
+>  - Recipe.h5 file which created from Recipe Recognition model
 
 ## To run the project direct to the flask folder location 
 Run the command : ` python app.py ` <br />
