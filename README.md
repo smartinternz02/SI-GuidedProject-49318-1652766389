@@ -28,10 +28,6 @@ This project consists of four folders
 >>  - Testing the Recipe Recognition.ipynb
 >>  - Recipe.h5 file which created from Recipe Recognition model
 
-## To run the project direct to the flask folder location 
-Run the command : ` python app.py ` <br />
-Then Website Running on http://127.0.0.1:5000/
-
 ## Website
 ![Screenshot 2022-05-27 191114](https://user-images.githubusercontent.com/87355988/170710916-44c83582-fabf-4c1d-9d78-cfdc710b09bb.png)
 
