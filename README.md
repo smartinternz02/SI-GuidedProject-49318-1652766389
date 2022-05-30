@@ -21,7 +21,8 @@ This project consists of four folders
 3. IBM files <br />
 >>  - IBM Deployment model file.ipynb
 >>  - Downloading model file from IBM watson studio.ipynb
->>  - Recipe.h5 file which is extracted from .tar.gz file
+>>  - IBM_flask file
+>>  - IBM_scoring_point.ipynb
 4. Model Building <br />
 >>  - Recipe Recognition Model.ipynb
 >>  - Testing the Recipe Recognition.ipynb
